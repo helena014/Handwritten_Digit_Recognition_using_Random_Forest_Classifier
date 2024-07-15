@@ -1,0 +1,2 @@
+# Handwritten_Digit_Recognition_using_Random_Forest_Classifier
+The project involved visualizing and preprocessing the data, followed by training a Random Forest Classifier to predict the digit each image represents. Key steps included reshaping and scaling the data, splitting it into training and testing sets, and evaluating the model's performance with a confusion matrix and classification report.
